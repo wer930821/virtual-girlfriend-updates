@@ -1,6 +1,6 @@
 {
-  "versionCode": 102,
-  "versionName": "0.1.102",
-  "apkUrl": "https://github.com/wer930821/virtual-girlfriend-updates/releases/download/v0.1.102/app-release-unsigned.apk",
-  "notes": "自動更新"
+  "versionCode": 2,
+  "versionName": "0.2.0",
+  "apkUrl": "https://github.com/wer930821/virtual-girlfriend-updates/releases/download/v0.2.0/vgf-app-release.apk",
+  "notes": "淺藍色主題、UI 大改版（首頁＋三步驟建立＋新版她的資料頁＋我們頁頁籤）、修復 API Key 儲存與訊息傳送狀態。"
 }
